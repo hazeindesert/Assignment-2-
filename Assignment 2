@@ -22,7 +22,19 @@ Approximate round trip times in milli-seconds:
 Question 3: Identify all devices on the path between your computer to `skillsunion.com`.
 
 ```sh
-Wireless Lan router, Modem
+Router.aus
+138.75.0.1
+246.246.65.202
+245.246.65.202
+38.246.65.202
+162.246.65.202
+digitalocean.sgix.sg 103.16.102.73
+
+
+
+
+
+163.22.244.85
 ```
 
 Question 4: Look up the DNS of `skillsunion.com` without using `nslookup`.
