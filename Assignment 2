@@ -1,0 +1,43 @@
+## Assignment
+
+### Brief
+
+Use a Terminal Commands to answer the following questions. Your answer should consist the command you use and the output. You may simply copy and paste your terminal's content into the respective code blocks.
+
+Question 1: Get the IP Address of `skillsunion.com`.
+
+```sh
+165.22.244.85
+```
+
+Question 2: Determine the network latency of `skillsunion.com`?
+
+```sh
+Ping statistics for 165.22.244.85:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 7ms, Maximum = 81ms, Average = 32ms
+```
+
+Question 3: Identify all devices on the path between your computer to `skillsunion.com`.
+
+```sh
+Wireless Lan router, Modem
+```
+
+Question 4: Look up the DNS of `skillsunion.com` without using `nslookup`.
+
+```sh
+ping function
+```
+
+Question 5: Find out the `whois` details of `skillsunion.com`.
+
+```sh
+Answer here
+```
+
+### Submission 
+
+- Submit the URL of the GitHub Repository that contains your work to NTU black board.
+- Should you reference the work of your classmate(s) or online resources, give them credit by adding either the name of your classmate or URL. 
