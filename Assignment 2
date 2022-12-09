@@ -28,13 +28,20 @@ Wireless Lan router, Modem
 Question 4: Look up the DNS of `skillsunion.com` without using `nslookup`.
 
 ```sh
-ping function
+host command
 ```
 
 Question 5: Find out the `whois` details of `skillsunion.com`.
 
 ```sh
-Answer here
+Domain: Skillsunion.com
+Registrar: NameCheap, Inc.
+Registered On: 2019-10-13
+Expires On: 2023-10-13
+Updated On: 2022-10-14
+Status: ClientTransferProhibited
+Name Servers: dns1.registrar-servers.co,
+dns2.registrar-servers.com
 ```
 
 ### Submission 
